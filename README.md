@@ -1,3 +1,2 @@
 # DeepGenerativeModelsFinal
-wandb report:
-ncsn: https://api.wandb.ai/links/tourists/ef00mmc3
+wandb report: https://api.wandb.ai/links/tourists/ef00mmc3
